@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Who is Mario's main enemy?",
+    "options": ["Bowser", "Link", "Zelda", "Kirby"],
+    "answer": "Bowser",
+    "points": 100
+  },
+  {
+    "id": 2,
+    "question": "What is Luigi's favorite color?",
+    "options": ["Red", "Green", "Blue", "Yellow"],
+    "answer": "Green",
+    "points": 100
+  },
+  {
+    "id": 3,
+    "question": "What item makes Mario grow bigger?",
+    "options": ["Coin", "Star", "Mushroom", "Flower"],
+    "answer": "Mushroom",
+    "points": 100
+  },
+  {
+    "id": 4,
+    "question": "Who is the princess of the Mushroom Kingdom?",
+    "options": ["Daisy", "Rosalina", "Peach", "Zelda"],
+    "answer": "Peach",
+    "points": 100
+  },
+  {
+    "id": 5,
+    "question": "What animal does Yoshi resemble?",
+    "options": ["Dragon", "Turtle", "Dinosaur", "Lizard"],
+    "answer": "Dinosaur",
+    "points": 100
+  },
+  {
+    "id": 6,
+    "question": "What is the name of Mario's brother?",
+    "options": ["Wario", "Waluigi", "Luigi", "Toad"],
+    "answer": "Luigi",
+    "points": 100
+  },
+  {
+    "id": 7,
+    "question": "Which game did Mario first appear in?",
+    "options": ["Super Mario Bros", "Donkey Kong", "Mario Kart", "Tetris"],
+    "answer": "Donkey Kong",
+    "points": 200
+  },
+  {
+    "id": 8,
+    "question": "What is Wario's favorite food?",
+    "options": ["Garlic", "Mushroom", "Peach", "Coin"],
+    "answer": "Garlic",
+    "points": 150
+  },
+  {
+    "id": 9,
+    "question": "What is the name of the ghost in Mario games?",
+    "options": ["Casper", "Boo", "Phantom", "Specter"],
+    "answer": "Boo",
+    "points": 100
+  },
+  {
+    "id": 10,
+    "question": "Who is Bowser's son?",
+    "options": ["Bowser Jr.", "Koopa Kid", "Baby Bowser", "Larry"],
+    "answer": "Bowser Jr.",
+    "points": 100
+  }
+]

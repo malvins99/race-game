@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+
+@theme {
+  --color-primary: #ea2a33;
+  --color-accent: #FFD700;
+  --color-mario-yellow: #fbbf24;
+  --color-background-light: #f8f6f6;
+  --color-background-dark: #221112;
+  --color-card-dark: #472426;
+  --color-surface-dark: #2A1818;
+  --color-surface-light: #ffffff;
+  --color-border-dark: #472426;
+
+  --font-display: "Spline Sans", "Noto Sans", sans-serif;
+
+  --radius-lg: 2rem;
+  --radius-xl: 3rem;
+}
+
+/* Custom Utilities */
+@utility text-shadow-sm {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+@utility text-shadow-md {
+  text-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+@utility drop-shadow-glow {
+  filter: drop-shadow(0 0 10px rgba(234, 42, 51, 0.5));
+}
+
+body {
+  background-color: #221112;
+  color: #ffffff;
+  font-family: var(--font-display);
+}

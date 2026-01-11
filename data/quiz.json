@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "Siapa musuh utama Mario?",
+        "options": [
+            "Bowser",
+            "Link",
+            "Zelda",
+            "Kirby"
+        ],
+        "answer": "Bowser"
+    },
+    {
+        "id": 2,
+        "question": "Apa warna topi Luigi?",
+        "options": [
+            "Merah",
+            "Hijau",
+            "Kuning",
+            "Ungu"
+        ],
+        "answer": "Hijau"
+    },
+    {
+        "id": 3,
+        "question": "Siapa saudara Mario?",
+        "options": [
+            "Wario",
+            "Luigi",
+            "Waluigi",
+            "Toad"
+        ],
+        "answer": "Luigi"
+    },
+    {
+        "id": 4,
+        "question": "Hewan apa Yoshi itu?",
+        "options": [
+            "Naga",
+            "Dinosaurus",
+            "Kura-kura",
+            "Kadal"
+        ],
+        "answer": "Dinosaurus"
+    },
+    {
+        "id": 5,
+        "question": "Apa makanan favorit Mario?",
+        "options": [
+            "Pizza",
+            "Spaghetti",
+            "Jamur",
+            "Bunga"
+        ],
+        "answer": "Spaghetti"
+    }
+]

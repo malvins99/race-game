@@ -1,0 +1,10 @@
+[
+  {"id": 1, "name": "Mario", "speed": 10, "handling": 8, "sprite": "mario_car.png", "color": "#E52521"},
+  {"id": 2, "name": "Luigi", "speed": 11, "handling": 7, "sprite": "luigi_car.png", "color": "#43B047"},
+  {"id": 3, "name": "Peach", "speed": 9, "handling": 10, "sprite": "peach_car.png", "color": "#F9A7B0"},
+  {"id": 4, "name": "Toad", "speed": 12, "handling": 6, "sprite": "toad_car.png", "color": "#FFFFFF"},
+  {"id": 5, "name": "Yoshi", "speed": 11, "handling": 9, "sprite": "yoshi_car.png", "color": "#7CC576"},
+  {"id": 6, "name": "Bowser", "speed": 8, "handling": 5, "sprite": "bowser_car.png", "color": "#FF8C00"},
+  {"id": 7, "name": "Daisy", "speed": 10, "handling": 9, "sprite": "daisy_car.png", "color": "#FFD700"},
+  {"id": 8, "name": "Wario", "speed": 7, "handling": 6, "sprite": "wario_car.png", "color": "#9B59B6"}
+]

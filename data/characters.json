@@ -1,0 +1,34 @@
+[
+    {
+        "id": "mario",
+        "name": "Mario",
+        "speed": 10,
+        "acceleration": 5,
+        "sprite": "/sprites/mario_car.png",
+        "color": "red-500"
+    },
+    {
+        "id": "luigi",
+        "name": "Luigi",
+        "speed": 9,
+        "acceleration": 6,
+        "sprite": "/sprites/luigi_car.png",
+        "color": "green-500"
+    },
+    {
+        "id": "peach",
+        "name": "Peach",
+        "speed": 8,
+        "acceleration": 7,
+        "sprite": "/sprites/peach_car.png",
+        "color": "pink-400"
+    },
+    {
+        "id": "toad",
+        "name": "Toad",
+        "speed": 11,
+        "acceleration": 8,
+        "sprite": "/sprites/toad_car.png",
+        "color": "blue-400"
+    }
+]
